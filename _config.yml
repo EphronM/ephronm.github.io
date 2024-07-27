@@ -4,16 +4,18 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I'm a blended package of a Data Scientist, ML Engineer, and MLOPS developer with more than 2 years of experience who could help you solve your business problems by providing scalable LLM-based solutions tailored to your specific use case.
   <br><br>
-  -  Analyze internal dataset to find feature relationships <br>
-  -  Suggest best LLM or ML solution for your use case<br>
-  -  Budget cloud-based development for scalability<br>
-  -  Focus on CI/CD pipelines for future AI retraining using MLOps<br>
-  -  Work as solo contributor or in team setting<br>
-  -  Prioritize workload based on project schedule<br>
+  <ul>
+    <li>Analyze internal dataset to find feature relationships</li>
+    <li>Suggest best LLM or ML solution for your use case</li>
+    <li>Budget cloud-based development for scalability</li>
+    <li>Focus on CI/CD pipelines for future AI retraining using MLOps</li>
+    <li>Work as solo contributor or in team setting</li>
+    <li>Prioritize workload based on project schedule</li>
+  </ul>
   <br><br>
-  <a href="https://www.linkedin.com/in/ephron-martin/">LinkedIn </a> <br>
-  <a href="https://github.com/EphronM">Github Profile</a> <br>
-  <a href="https://medium.com/@ephronM">Medium Profile</a> <br>
+  <a href="https://www.linkedin.com/in/ephron-martin/">LinkedIn</a> 
+  <a href="https://github.com/EphronM">Github</a> 
+  <a href="https://medium.com/@ephronM">Medium</a> <br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
