@@ -1,13 +1,20 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Ephron M # your name (or website title) here
+logo: "/images/profile-pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I'm a blended package of a Data Scientist, ML Engineer, and MLOPS developer with more than 2 years of experience 
+  who could help you solve your business problems by providing scalable LLM-based solutions tailored to your specific use case.
   <br><br>
-  Second description 
+  * Analysis of your Internal dataset to find the relationship between features
+  * Suggest the best LLM or ML solution that could solve your use case.
+  * Budgeting the development solutions as cloud-based for better scalability.
+  * Focuses on CI-CD pipelines for future retraining of the AI-based solution using MLOPS
+  * Can work as a solo contributor and also in a team setting. Will prioritise the workload based on the project schedule.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ephron-martin/">LinkedIn Profile</a> 
+  <a href="https://github.com/EphronM">Github Profile</a> 
+  <a href="https://medium.com/@ephronM">Medium Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-E8GY0QF353 # your Google Analytics tracking ID here
