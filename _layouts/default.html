@@ -19,17 +19,10 @@
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
-   <style>
-      .wider-header {
-         width: 20%; /* Adjust the width as needed */
-         margin: 0 auto;
-         /* You can also add padding or other styling as necessary */
-      }
-   </style>
 </head>
 <body>
    <div class="wrapper">
-      <header class="wider-header">
+      <header>
          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          {% if site.logo %}
          <img src="{{site.logo | relative_url}}" alt="Logo" />
