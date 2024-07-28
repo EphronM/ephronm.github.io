@@ -11,13 +11,13 @@ Passionate data scientist proficient in Python and analytics, skilled in ML algo
 ## Blogs
 
 
-- [Question Answering with RetrievalQA Chain](https://medium.com/@ephronM/discovering-beyond-rag-the-chatbot-curtain-unveiled-de6115468204)
+- **[Question Answering with RetrievalQA Chain](https://medium.com/@ephronM/discovering-beyond-rag-the-chatbot-curtain-unveiled-de6115468204)**
 <img src="/images/blog_1.png" alt="Question Answering Blog" width="200">
   - Explored Question Answering using RetrievalQA Chain methodology, focusing on Map-Reduce, Refine, and Map-Ranking chain types to improve answer accuracy and relevance.
   - Highlighted the significance of Conversational Memory in ConversationalRetrievalChain for context retention and tracking past conversations.
 
-- [A Beginner’s Guide to Retrieval-Augmented Generation (RAG)](https://medium.com/@ephronM/a-beginners-guide-to-retrieval-augmented-generation-rag-5569bb628a4b)
-![Beginners Guide Blog](/images/blog_2.png)
+- **[A Beginner’s Guide to Retrieval-Augmented Generation (RAG)](https://medium.com/@ephronM/a-beginners-guide-to-retrieval-augmented-generation-rag-5569bb628a4b)**
+<img src="/images/blog_2.png" alt="Beginners Guide Blog" width="200">
   - Investigated document retrieval methods, emphasizing the Lang Chain and Llama2 LLM models to improve search capabilities. Explored VectorDB with Chroma for streamlined document indexing and retrieval.
   - Covered key concepts including Similarity Search, MMR, Contextual Compression, and Self Querying to optimize search results and relevance.
 

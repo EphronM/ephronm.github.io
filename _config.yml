@@ -16,10 +16,11 @@ description: > # your text below (remove <br> elements if you don't need line br
     Email: <a href="mailto:ephronmartin2016@gamil.com">ephronmartin2016@gamil.com</a><br>
     Phone: <a href="tel:+917025960589">(+91) 7025960589</a>
   </div>
-  
+  <br>
   I'm a blended package of a Data Scientist, ML Engineer, and MLOPS developer with more than 2 years of experience who could help you solve your business problems by providing scalable LLM-based solutions tailored to your specific use case.
   <br>
   <ul>
+    <br>
     <li>Analyze internal dataset to find feature relationships</li>
     <li>Suggest best LLM or ML solution for your use case</li>
     <li>Budget cloud-based development for scalability</li>
